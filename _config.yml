@@ -9,16 +9,16 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kyra Flesvig
-description: "Hi I'm Kyra, a Marekting and Sport Management professional passionate about building ideas that create real impact. This portfolio showcases projects that blend strategy, storytelling, and results. Connect with me on LinkedIn, explore my GitHub, or download my resume below."
+description: "Hi I'm Kyra, a Marketing and Sport Management professional passionate about building ideas that create real impact. This portfolio showcases projects that blend strategy, storytelling, and results. Connect with me on LinkedIn, explore my GitHub, or download my resume below."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "valparaiso, IN"
-resume_url: /docs/<kyraflesvigresume.pdf>
-avatar_image: /img/<kyraflesvigheadshot.PNG>
+subtitle: <span style="color:#f58506"> Portfolio </span>
+location: "Valparaiso, IN"
+resume_url: /docs/<KyraFlesvigResume.pdf>
+avatar_image: /img/<ChatGPT Image Feb 19, 2026, 03_05_38 PM.png>
 
 #-------------------------------
 # Contact links
@@ -51,5 +51,6 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
