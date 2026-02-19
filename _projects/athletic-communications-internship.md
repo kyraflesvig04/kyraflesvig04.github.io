@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: "Athletic Communications Internship"
@@ -25,3 +26,7 @@ Supported athletic communications operations for multiple varsity programs, assi
 
 ### Skills Used
 Sports marketing, digital media, brand communication, content strategy, event operations
+
+collections:
+  projects:
+    output: true
