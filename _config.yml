@@ -39,7 +39,9 @@ defaults:
       layout: post
       read_time: true
       share: false
-
+collections:
+  projects:
+    output: true
 
 #-------------------------------
 # Exclude from processing.
@@ -51,9 +53,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-collections:
-  projects:
-    output: true
+
 
 
 
