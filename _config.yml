@@ -40,6 +40,8 @@ defaults:
       read_time: true
       share: false
       
+#-------------------------------
+# Collections
 collections:
   projects:
     output: true
@@ -54,6 +56,7 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
