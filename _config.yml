@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kyra Flesvig
-description: "Hi I'm Kyra, a Marketing and Sport Management professional passionate about building ideas that create real impact. This portfolio showcases projects that blend strategy, storytelling, and results. Connect with me on LinkedIn, explore my GitHub, or download my resume below."
+description: "Hi! I'm Kyra, a Marketing and Sport Management professional passionate about building ideas that create real impact. This portfolio showcases projects that blend strategy, storytelling, and results. Connect with me on LinkedIn, explore my GitHub, or download my resume below."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
