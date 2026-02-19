@@ -39,6 +39,7 @@ defaults:
       layout: post
       read_time: true
       share: false
+      
 collections:
   projects:
     output: true
@@ -53,6 +54,7 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
