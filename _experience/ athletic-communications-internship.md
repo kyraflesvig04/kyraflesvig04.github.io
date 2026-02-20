@@ -2,6 +2,7 @@
 layout: post
 title: "Athletic Communications Internship"
 ---
+
 ## Organization
 Lewis University Athletics  
 
