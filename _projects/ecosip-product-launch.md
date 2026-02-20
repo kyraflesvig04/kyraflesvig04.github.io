@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "EcoSip SmartBottle Launch Campaign"
-description: "Integrated PR and marketing campaign for a smart, sustainable hydration product."
 ---
 
 ## Overview  
@@ -62,4 +61,4 @@ Integrated Communications
 ---
 
 ### 📄 View Full Campaign Report  
-[Click here to view the full PR Campaign PDF](/docs/PR%20Project%20(1).pdf)
+https://docs.google.com/presentation/d/156Z_P5f968X3u2ORfWC7AnIVnOB6CFQMKOrUBEgu6uA/present
