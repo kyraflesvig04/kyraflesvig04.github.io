@@ -45,6 +45,7 @@ defaults:
 collections:
   projects:
     output: true
+    permalink: /projects/:name/
 
 #-------------------------------
 # Exclude from processing.
@@ -56,6 +57,7 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
