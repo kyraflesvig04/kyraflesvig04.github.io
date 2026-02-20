@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "HubSpot CRM Strategy for Chicago Event Management"
-description: "B2B CRM consulting and workflow optimization presentation."
 ---
 
 ## Overview  
