@@ -93,31 +93,34 @@ As part of my role, I authored official game and meet recaps published on the Le
 
 </div>
 
-## GLVC Cross Country Championship Recap
 
-Produced and edited a recap video highlighting the Men's and Women's GLVC Cross Country Championship performances.
+## Video Production
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/nn-5VqIsPUc"
-title="GLVC Cross Country Championship Recap"
-frameborder="0"
-allowfullscreen>
-</iframe>
+<div style="text-align:center; margin-top:30px;">
 
-Produced and edited additional short-form highlight content for Lewis XC.
+  <h4>GLVC XC Championship Recap</h4>
+  <iframe width="720" height="405"
+    src="https://www.youtube.com/embed/nn-5VqIsPUc"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
 
-<iframe width="720" height="405"
-src="https://www.youtube.com/embed/pRrQxa0WGXk"
-title="Athletics Recap Video"
-frameborder="0"
-allowfullscreen>
-</iframe>
+  <br><br>
 
-Produced and edited additional highlight video content for Lewis Men's XC.
+  <h4>Additional Athletics Recap</h4>
+  <iframe width="720" height="405"
+    src="https://www.youtube.com/embed/pRrQxa0WGXk"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
 
-<iframe width="720" height="405"
-src="https://www.youtube.com/embed/5UffM1K-07w"
-title="Athletics Highlight Video"
-frameborder="0"
-allowfullscreen>
-</iframe>
+  <br><br>
+
+  <h4>Highlight Video</h4>
+  <iframe width="720" height="405"
+    src="https://www.youtube.com/embed/5UffM1K-07w"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+
+</div>
