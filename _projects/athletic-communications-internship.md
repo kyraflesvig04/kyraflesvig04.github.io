@@ -25,7 +25,6 @@ Supported athletic communications operations across multiple varsity programs, f
 
 ## Skills Used
 Sports marketing, digital media strategy, content creation, brand communication, event operations
-## Sample Graphics
 
 ---
 
