@@ -47,12 +47,13 @@ Event Industry Systems Thinking
 target="_blank" 
 style="
 padding:12px 24px;
-background:#7b3fe4;
+background:#00e0b8;
 color:white;
 text-decoration:none;
 border-radius:6px;
 font-weight:bold;
 display:inline-block;
-margin-top:15px;">
+margin-top:15px;
+transition:0.3s;">
 View Full Presentation
 </a>
