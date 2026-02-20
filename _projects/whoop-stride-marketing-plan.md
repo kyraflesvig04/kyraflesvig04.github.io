@@ -41,19 +41,7 @@ Financial forecasting
 Campaign planning  
 Competitive analysis  
 
-<a href="https://docs.google.com/document/d/FILEID/preview"
-target="_blank"
-style="
-padding:12px 24px;
-background:#00e0b8;
-color:white;
-text-decoration:none;
-border-radius:6px;
-font-weight:bold;
-display:inline-block;
-margin-top:15px;
-transition:0.3s;"
-onmouseover="this.style.background='#00c7a3'" 
-onmouseout="this.style.background='#00e0b8'">
-View Full Campaign Presentation
-</a>
+---
+
+### Full Written Marketing Plan  
+[Download Full WHOOP Stride Marketing Plan (PDF)](/docs/Marketing%20Plan%20Written%20Report_Group%202.pdf)
