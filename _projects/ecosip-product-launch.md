@@ -60,5 +60,17 @@ Integrated Communications
 
 ---
 
-### 📄 View Full Campaign Report  
-https://docs.google.com/presentation/d/156Z_P5f968X3u2ORfWC7AnIVnOB6CFQMKOrUBEgu6uA/present
+<a href="https://docs.google.com/presentation/d/156Z_P5f968X3u2ORfWC7AnIVnOB6CFQMKOrUBEgu6uA/present" 
+target="_blank" 
+style="
+padding:12px 24px;
+background:#00e0b8;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+display:inline-block;
+margin-top:15px;
+transition:0.3s;">
+View Full Campaign Presentation
+</a>
