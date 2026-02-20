@@ -28,3 +28,17 @@ A research-based study examining how collegiate athletics impacts student-athlet
    font-weight:bold;">
    View Full Research Presentation
 </a>
+
+<br><br>
+
+<a href="/docs/Research%20Project%20-%20Kyra%20Flesvig.pdf" 
+   style="
+   display:inline-block;
+   padding:12px 24px;
+   background:#00e0b8;
+   color:white;
+   text-decoration:none;
+   border-radius:6px;
+   font-weight:bold;">
+   View Full Research Paper
+</a>
