@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Athletic Communications Internship
-description: "Athletic communications experience."
 ---
 ## Organization
 Lewis University Athletics  
