@@ -37,9 +37,11 @@ Sports marketing, digital media strategy, content creation, brand communication,
 ![5K Graphic](/img/evan5k.PNG)
 
 ### Men's All-Region
+
 ![Men's All-Region](/img/menallregion.PNG)
 
 ### 3K Graphic
+
 ![3K Graphic](/img/evan3k.jpeg)
 
 ### Mile Graphic
