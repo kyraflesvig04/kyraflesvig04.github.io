@@ -48,29 +48,48 @@ As part of my role, I authored official game and meet recaps published on the Le
 ### Track & Field
 - [Horgan’s Historic Run Headlines Dominant Opening Weekend for Flyers](https://lewisflyers.com/news/2025/12/7/mens-track-and-field-horgans-historic-run-headlines-dominant-opening-weekend-for-flyers.aspx)
 
-### Women's All-Region
-![Women's All-Region](/img/womenallregion.PNG)
+---
 
-### Women's Nationals
-![Women's Nationals](/img/womennationals.PNG)
+## Graphic Design Work
 
-### Men's Nationals
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
 
-![Men's Nationals](/img/mensnationals.png)
+  <div style="width:48%;">
+    <h4>Women's All-Region</h4>
+    <img src="/img/womenallregion.PNG" style="width:100%; border-radius:6px;">
+  </div>
 
-### 5K Graphic
-![5K Graphic](/img/evan5k.PNG)
+  <div style="width:48%;">
+    <h4>Men's All-Region</h4>
+    <img src="/img/menallregion.PNG" style="width:100%; border-radius:6px;">
+  </div>
 
-### Men's All-Region
+  <div style="width:48%;">
+    <h4>Women's Nationals</h4>
+    <img src="/img/womennationals.PNG" style="width:100%; border-radius:6px;">
+  </div>
 
-![Men's All-Region](/img/menallregion.PNG)
+  <div style="width:48%;">
+    <h4>Men's Nationals</h4>
+    <img src="/img/mensnationals.png" style="width:100%; border-radius:6px;">
+  </div>
 
-### 3K Graphic
+  <div style="width:48%;">
+    <h4>5K Graphic</h4>
+    <img src="/img/evan5k.PNG" style="width:100%; border-radius:6px;">
+  </div>
 
-![3K Graphic](/img/evan3k.jpeg)
+  <div style="width:48%;">
+    <h4>3K Graphic</h4>
+    <img src="/img/evan3k.jpeg" style="width:100%; border-radius:6px;">
+  </div>
 
-### Mile Graphic
-![Mile Graphic](/img/evanmile.jpeg)
+  <div style="width:48%;">
+    <h4>Mile Graphic</h4>
+    <img src="/img/evanmile.jpeg" style="width:100%; border-radius:6px;">
+  </div>
+
+</div>
 
 ## GLVC Cross Country Championship Recap
 
