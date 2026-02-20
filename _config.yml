@@ -48,6 +48,7 @@ collections:
     permalink: /projects/:name/
     
 
+
 #-------------------------------
 # Exclude from processing.
 # exclude:
@@ -58,6 +59,7 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
