@@ -6,7 +6,7 @@ title: "WHOOP Stride Marketing Plan"
 ## Overview
 Developed a comprehensive marketing launch strategy for WHOOP Stride, a self-cleaning, charge-free smart sock designed to deliver real-time foot-based biometric performance data.
 
-This project focused on expanding WHOOP’s product ecosystem into smart apparel while maintaining its premium performance positioning.
+This group project focused on expanding WHOOP’s product ecosystem into smart apparel while maintaining its premium performance positioning.
 
 ## My Role
 - Conducted market research and competitive analysis  
