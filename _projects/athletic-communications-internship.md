@@ -50,3 +50,14 @@ Sports marketing, digital media strategy, content creation, brand communication,
 
 ### Mile Graphic
 ![Mile Graphic](/img/evanmile.jpeg)
+
+## GLVC Cross Country Championship Recap
+
+Produced and edited a recap video highlighting the Men's and Women's GLVC Cross Country Championship performances.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/nn-5VqIsPUc"
+title="GLVC Cross Country Championship Recap"
+frameborder="0"
+allowfullscreen>
+</iframe>
