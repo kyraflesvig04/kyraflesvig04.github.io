@@ -41,7 +41,7 @@ Financial forecasting
 Campaign planning  
 Competitive analysis  
 
-<a href=https://docs.google.com/document/d/FILEID/preview
+<a href="https://docs.google.com/document/d/FILEID/preview"
 target="_blank"
 style="
 padding:12px 24px;
