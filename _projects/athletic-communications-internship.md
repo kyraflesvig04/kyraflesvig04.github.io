@@ -25,3 +25,16 @@ Supported athletic communications operations across multiple varsity programs, f
 
 ## Skills Used
 Sports marketing, digital media strategy, content creation, brand communication, event operations
+## Sample Graphics
+
+### Women's All-Region
+![Women's All-Region](/img/womenallregion.PNG)
+
+### Women's Nationals
+![Women's Nationals](/img/womennationals.PNG)
+
+### 5K Graphic
+![5K Graphic](/img/evan5k.PNG)
+
+### Mile Graphic
+![Mile Graphic](/img/evanmile.jpeg)
