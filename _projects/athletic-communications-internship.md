@@ -26,8 +26,6 @@ Supported athletic communications operations across multiple varsity programs, f
 ## Skills Used
 Sports marketing, digital media strategy, content creation, brand communication, event operations
 
----
-
 ## Written Recaps & Publications
 
 As part of my role, I authored official game and meet recaps published on the Lewis University Athletics website.
