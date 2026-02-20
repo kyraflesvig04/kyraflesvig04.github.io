@@ -47,10 +47,9 @@ collections:
     output: true
     permalink: /projects/:name/
 
-    experience:
+  experience:
     output: true
     permalink: /experience/:name/
-    
 
 
 #-------------------------------
@@ -63,6 +62,7 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
