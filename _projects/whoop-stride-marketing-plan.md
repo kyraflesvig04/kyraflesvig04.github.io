@@ -41,5 +41,19 @@ Financial forecasting
 Campaign planning  
 Competitive analysis  
 
-## Full Marketing Plan
-[Download Full Marketing Plan (PDF)](/docs/Marketing Plan Written Report_Group 2.pdf)
+<a href="PASTE-WHOOP-LINK-HERE" 
+target="_blank"
+style="
+padding:12px 24px;
+background:#00e0b8;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+display:inline-block;
+margin-top:15px;
+transition:0.3s;"
+onmouseover="this.style.background='#00c7a3'" 
+onmouseout="this.style.background='#00e0b8'">
+View Full Campaign Presentation
+</a>
