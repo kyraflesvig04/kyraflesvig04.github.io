@@ -96,7 +96,7 @@ As part of my role, I authored official game and meet recaps published on the Le
 
 <div style="text-align:center; margin-top:30px;">
 
-  <h4>GLVC XC Championship Recap</h4>
+  <h4>GLVC XC Championship Recap - 50.6k views on Instagram</h4>
   <iframe width="720" height="405"
     src="https://www.youtube.com/embed/nn-5VqIsPUc"
     frameborder="0"
@@ -105,7 +105,7 @@ As part of my role, I authored official game and meet recaps published on the Le
 
   <br><br>
 
-  <h4>Additional Athletics Recap</h4>
+  <h4>Additional Athletics Recap - 15.7k views on Instagram</h4>
   <iframe width="720" height="405"
     src="https://www.youtube.com/embed/pRrQxa0WGXk"
     frameborder="0"
